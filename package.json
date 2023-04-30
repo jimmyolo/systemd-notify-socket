@@ -1,0 +1,19 @@
+{
+  "name": "systemd-notify",
+  "version": "0.0.1",
+  "description": "systemd-notify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "systemd-notify",
+    "unix-dgram",
+    "NOTIFY_SOCKET",
+    "sd_notify"
+  ],
+  "author": "jimmyolo <victor0801x@gmail.com>",
+  "dependencies": {
+    "unix-dgram": "^2.0.6"
+  }
+}
